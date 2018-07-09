@@ -80,6 +80,8 @@ $table_prefix  = 'wpp2_';
 define('WP_DEBUG', false);
 
 /* That's all, stop editing! Happy blogging. */
+define('WP_HOME','https://www.portalbmf.com.br/wp_v2018');
+define('WP_SITEURL','https://www.portalbmf.com.br');
 
 /** Absolute path to the WordPress directory. */
 if ( !defined('ABSPATH') )
